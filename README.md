@@ -20,5 +20,5 @@ pod "XXHeardScale"
 
 ## License
 
-PSPromise is available under the MIT license. See the LICENSE file for more info.
+XXHeardScale is available under the MIT license. See the LICENSE file for more info.
 

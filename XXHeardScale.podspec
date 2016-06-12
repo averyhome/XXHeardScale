@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "XXHeardScale"
-s.version          = "0.0.1"
+s.version          = "1.0.0"
 s.summary          = "一句代码添加Scale的头视图"
 s.description      = <<-DESC
 It is a marquee view used on iOS, which implement by Objective-C.
@@ -10,7 +10,7 @@ s.homepage         = "https://github.com/xuxueing/XXHeardScale"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
   s.author             = { "朱小亮" => "330578304@qq.com" }
-  s.source       = { :git => "https://github.com/xuxueing/XXHeardScale.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/xuxueing/XXHeardScale.git", :tag => "1.0.0" }
 # s.social_media_url = 'https://twitter.com/NAME'
 
 s.platform     = :ios, '4.3'
